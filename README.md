@@ -37,7 +37,7 @@ and that you've already downloaded the prerequisite `youtube-dl.exe` file.
     get-Vmworld2017Videos.ps1
     ```
 
-End with an example of getting some data out of the system or using it for a little demo
+3. Sit back and watch the videos download. This will take _several_ minutes.
 
 ## Built With
 
