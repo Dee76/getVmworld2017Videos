@@ -28,7 +28,7 @@ and that you've already downloaded the prerequisite `youtube-dl.exe` file.
 1. Download the `get-Vmworld2017Videos.ps1` script.
 
     ```PowerShell
-    Invoke-WebRequest -Uri https://github.com/Dee76/getVmworld2017Videos/get-Vmworld2017Videos.ps1 -OutFile get-Vmworld2017Videos.ps1
+    Invoke-WebRequest -Uri https://raw.githubusercontent.com/Dee76/getVmworld2017Videos/master/get-Vmworld2017Videos.ps1 -OutFile get-Vmworld2017Videos.ps1
     ```
 
 2. Run the script.
