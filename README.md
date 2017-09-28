@@ -39,9 +39,13 @@ and that you've already downloaded the prerequisite `youtube-dl.exe` file.
 
 3. Sit back and watch the videos download. This will take _several_ minutes.
 
+### Troubleshooting
+
+If some videos fail to download, or the source Session video list is updated, simply run the script again. The list will be parsed and `youtube-dl.exe` will validate and skip any videos that were already successfully downloaded. Failed downloads will be resumed or restarted, and new videos downloaded.
+
 ## Built With
 
-* [PowerShell](http://microsoft.com/powershell) - The web framework used
+* [PowerShell](http://microsoft.com/powershell) - The scripting language used
 * [YouTube-DL](https://rg3.github.io/youtube-dl/) - Dependency Management
 
 ## Authors
