@@ -7,7 +7,8 @@
     William Lam's GitHub page (https://github.com/lamw/vmworld2017-session-urls).
     The retrieved markdown files are parsed to identify the Session
     name, associated YouTube URL, and category. The script then relies
-    on the YouTube-DL Windows executable () to download the videos.
+    on the YouTube-DL Windows executable (https://rg3.github.io/youtube-dl/download.html)
+    to download the videos.
 
     .EXAMPLE
     get-Vmworld2017Videos
